@@ -1,12 +1,12 @@
 {
   "data": {
     "character": {
-      "id": "1",
-      "name": "Rick Sanchez",
+      "id": "3",
+      "name": "Summer Smith",
       "status": "Alive",
       "species": "Human",
       "type": "",
-      "gender": "Male"
+      "gender": "Female"
     }
   }
 }
