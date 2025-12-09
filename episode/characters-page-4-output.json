@@ -1,0 +1,18 @@
+{
+  "data": {
+    "characters": [
+      {
+        "id": "61",
+        "name": "Beta Rick",
+        "status": "Alive",
+        "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+      },
+      {
+        "id": "62",
+        "name": "Beta Morty",
+        "status": "Alive",
+        "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+      }
+    ]
+  }
+}
