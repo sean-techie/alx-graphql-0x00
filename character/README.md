@@ -1,4 +1,4 @@
-GraphQL Query
+# GraphQL Query
 The GraphQL query is defined in character-id-1.graphql
 
 query character($id: ID!) {
